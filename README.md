@@ -1,5 +1,5 @@
 # BigData_SocialMedia_Analytics
----------------------------------
+
 ## Project Description
 
 - Purpose: Acting as a well-known artist’s/band’s manager, using social media analytics to help improve their popularity.

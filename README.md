@@ -1,4 +1,4 @@
-# BigData_SocialMedia_Analytics_UsingR
+# Artist's Data & Social Media Analytics (ML Using R)
 
 ## Project Description
 

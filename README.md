@@ -1,4 +1,4 @@
-# BigData_SocialMedia_Analytics
+# BigData_SocialMedia_Analytics_UsingR
 
 ## Project Description
 
